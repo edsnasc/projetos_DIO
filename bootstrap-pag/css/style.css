@@ -1,0 +1,28 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background: linear-gradient(to right, rgb(252, 234, 187), rgb(248, 181, 0));
+}
+
+.quem-somos {
+    background-color: darkgrey;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.parceiros {
+    background-color: ghostwhite;
+}
+
+.servicos {
+    background-color: darkgrey;
+}
+
+.bg-footer {
+    background-color: ghostwhite;
+}

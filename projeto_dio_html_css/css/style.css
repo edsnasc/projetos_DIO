@@ -1,0 +1,44 @@
+body {
+    color: #fff;
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(67, 67, 67));
+    margin: 0px 200px 0px 20px;
+}
+
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 0px 0px 30px;
+}
+
+.menu ul {
+    display: flex;
+    list-style: none;
+    color: #fff;
+}
+
+.menu li {
+    margin-left: 30px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.menu a:hover {
+    color: crimson;
+    transition-duration: 0.8s;
+}
+
+.title {
+    text-align: center;
+}
+
+.img-container {
+    display: flex;
+    align-items: center;
+}
+.img-container img{
+    margin-right: 30px;
+}
